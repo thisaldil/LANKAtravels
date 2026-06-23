@@ -1,6 +1,6 @@
-# 🚀 [Project Name]
+# 🚀LANKAtravels
+> A travel and accommodation booking platform inspired by Airbnb, enabling users to discover, explore, and book unique stays through an intuitive and responsive interface. The system provides property listings, booking management, and seamless user experiences for both travelers and property owners.
 
-> [One-line description — what it does and who it's for]
 
 ![Project Banner](./screenshots/banner.png)
 <!-- Tip: a 1280x640px screenshot of your app's hero/landing page works great as a banner -->
