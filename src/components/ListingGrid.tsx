@@ -19,7 +19,7 @@ const mockListings: Listing[] = [
   price: 85,
   rating: 4.88,
   imageUrl:
-  'https://images.unsplash.com/photo-1546708973-c31fa6770281?auto=format&fit=crop&w=800&q=80'
+  'https://a.travel-assets.com/findyours-php/viewfinder/images/res70/213000/213625-Ella-Sri-Lanka.jpg'
 },
 {
   id: '3',
@@ -39,7 +39,7 @@ const mockListings: Listing[] = [
   price: 95,
   rating: 4.92,
   imageUrl:
-  'https://images.unsplash.com/photo-1588614959060-4d144f28b207?auto=format&fit=crop&w=800&q=80'
+  'https://tse4.mm.bing.net/th/id/OIP.cO5HM_sd_CrGadG2yxv3mwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3'
 },
 {
   id: '5',
@@ -49,7 +49,7 @@ const mockListings: Listing[] = [
   price: 75,
   rating: 4.85,
   imageUrl:
-  'https://images.unsplash.com/photo-1578469645762-461b4f8a0d96?auto=format&fit=crop&w=800&q=80'
+  'https://tse3.mm.bing.net/th/id/OIP.lBy46Sgs_L_Lrny-Q3J7AAHaEK?rs=1&pid=ImgDetMain&o=7&rm=3'
 },
 {
   id: '6',
@@ -59,7 +59,7 @@ const mockListings: Listing[] = [
   price: 110,
   rating: 4.91,
   imageUrl:
-  'https://images.unsplash.com/photo-1580988365610-8b1b369528f1?auto=format&fit=crop&w=800&q=80'
+  'https://tse3.mm.bing.net/th/id/OIP.CR-6OenVcGTIKsCARk8migHaDD?rs=1&pid=ImgDetMain&o=7&rm=3'
 },
 {
   id: '7',
@@ -69,7 +69,7 @@ const mockListings: Listing[] = [
   price: 130,
   rating: 4.89,
   imageUrl:
-  'https://images.unsplash.com/photo-1625736302040-528f1c8a1e40?auto=format&fit=crop&w=800&q=80'
+  'https://tse4.mm.bing.net/th/id/OIP.nkg8KYtgbAVJmhYlFSiFcQHaE7?rs=1&pid=ImgDetMain&o=7&rm=3'
 },
 {
   id: '8',
@@ -99,7 +99,7 @@ const mockListings: Listing[] = [
   price: 180,
   rating: 4.97,
   imageUrl:
-  'https://images.unsplash.com/photo-1537551080512-bc7ee622a613?auto=format&fit=crop&w=800&q=80'
+  'https://tse4.mm.bing.net/th/id/OIP.Nmc52uf2WClCWhlIEcsabgHaEK?rs=1&pid=ImgDetMain&o=7&rm=3'
 },
 {
   id: '11',
@@ -109,7 +109,7 @@ const mockListings: Listing[] = [
   price: 90,
   rating: 4.86,
   imageUrl:
-  'https://images.unsplash.com/photo-1506462945848-ac8ea2f609dc?auto=format&fit=crop&w=800&q=80'
+  'https://th.bing.com/th/id/R.5de90be890ed17cc28b0129f7746d1d0?rik=Fep2rxYxcQrW4Q&pid=ImgRaw&r=0'
 },
 {
   id: '12',
@@ -119,7 +119,7 @@ const mockListings: Listing[] = [
   price: 105,
   rating: 4.9,
   imageUrl:
-  'https://images.unsplash.com/photo-1605806616949-1e87b487cb2a?auto=format&fit=crop&w=800&q=80'
+  'https://c8.alamy.com/comp/CEJ4GJ/the-golden-temple-dambulla-sri-lanka-CEJ4GJ.jpg'
 }];
 
 export function ListingGrid() {
